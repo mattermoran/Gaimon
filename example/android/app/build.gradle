@@ -57,6 +57,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.dimitridessus.gaimon_example'
 }
 
 flutter {
